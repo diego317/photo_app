@@ -38,6 +38,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   path_provider: ^2.1.4
   better_open_file: ^3.6.5
+  firebase_core: ^3.6.0
 
 dev_dependencies:
   flutter_test:
